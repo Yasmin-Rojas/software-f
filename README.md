@@ -1,0 +1,2 @@
+# software-f
+Componente práctico
